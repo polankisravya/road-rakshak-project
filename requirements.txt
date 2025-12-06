@@ -1,4 +1,4 @@
-Streamlit,
+streamlit,
 Pandas, 
 Plotly-express, 
 Google-genai, 
